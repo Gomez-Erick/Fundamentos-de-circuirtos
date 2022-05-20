@@ -15,10 +15,12 @@ Objetivos específicos
 
 2.1.   Cantidad y unidades
 
+![1]()
+
 3.1. Unidades fundamentales y derivadas 
-
-
+![1]()
 1.2. notación científica
+![1]()
 
 
 
