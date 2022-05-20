@@ -13,3 +13,4 @@ Objetivos específicos:
 •	Resolver y explicar cada uno de los temas correspondidos por medio de la resolución de problemas.
 
 2.	MARCO TEÓRICO (RESUMEN)
+3.	README/imagen.jpg 
