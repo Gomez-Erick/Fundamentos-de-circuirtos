@@ -15,12 +15,12 @@ Objetivos específicos
 
 2.1.   Cantidad y unidades
 
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/ddf15e6a1d7e5e5c9d4a830753335ee2b8d21474/imagenes/1er%20mapa.PNG)
 
 3.1. Unidades fundamentales y derivadas 
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/ddf15e6a1d7e5e5c9d4a830753335ee2b8d21474/imagenes/2mapa.PNG)
 1.2. notación científica
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/ddf15e6a1d7e5e5c9d4a830753335ee2b8d21474/imagenes/3.PNG)
 
 
 
