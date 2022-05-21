@@ -85,72 +85,94 @@ La seguridad es un asunto del mayor interés cuando se trabaja con electricidad.
 
 **10. Efectúe las siguientes sustracciones**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e6.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e5.PNG)
 
 **12. Realice las siguientes divisiones:**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e7.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e6.PNG)
 
 **14. Exprese cada número en notación de ingeniería:**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e8.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e7.PNG)
 
 **16. Exprese cada número en notación de ingeniería:**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e9.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e8.PNG)
 
 **18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e10.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e9.PNG)
 
 **20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e11.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e10.PNG)
 
 **22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e12.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e11.PNG)
 
 **24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/dfcba7e59b8f5078c29037e698b06e133c3d1251/imagenes/ejercicios/e13.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e12.PNG)
 
 **26. Exprese cada cantidad en notación de ingeniería:**
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e13.PNG)
 
 **28) Determine lo siguiente:**
 
 (a) El número de microamperes en 1 miliampere
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e131.PNG)
+
 (b) El número de milivolts en 0.05 kilovolts
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e132.PNG)
 
 (c) El número de megohms en 0.02 kilohms
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e133.PNG)
+
 (d) El número de kilowatts en 155 miliwatts
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d2c27704172383e5f68b190eda90d788e9294504/imagenes/ejercicios/e134.PNG)
 
 **30. Realice las siguientes operaciones:**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e14.PNG)
+
 **2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e15.PNG)
 
 **4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e16.PNG)
+
 **6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?**
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e17.PNG)
 
 **8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e18.PNG)
+
 **10. Determine la corriente en cada uno de los siguientes casos:**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e19.PNG)
+
 **12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?**
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e20.PNG)
 
 
 **14.  5.74 x1017 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e21.PNG)
+
 **16. Encuentre la resistencia correspondiente a las siguientes conductancias:** 
 
-(a) 0.1 S 
-
-(b) 0.5 S
-
-(c) 0.02 S
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/9152296af204a2d519d5402c574afba00ded3b9a/imagenes/ejercicios/e22.PNG)
 
 **18. ¿En qué principio se basan los generadores eléctricos?**
 
@@ -158,9 +180,14 @@ Los generadores electrónicos se basan en el principio de inducción electromagn
 
 **20. Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500, ¿cuál es la corriente en la carga?**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/382007ad4d052d08d07f8dc1fb1982d28eb699a0/imagenes/ejercicios/e23.PNG)
+
 **22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.**
 
 a) 27KΩ ± 5% 
+
+27,000*0.05 = 1350Ω                     27,000+1350 = 28,350Ω máxima 
+27,000*0.05 = 1350Ω                     27,000 -1350 =25,650Ω Mínima 
 
 b) 1.8KΩ ± 10%  
 
@@ -186,6 +213,8 @@ b) 1.8KΩ ± 10%
 
 **28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000¿cuál es la resistencia entre cada terminal y el contacto ajustable?
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/382007ad4d052d08d07f8dc1fb1982d28eb699a0/imagenes/ejercicios/e24.PNG)
+
 **30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:** 
 
 (a) 4R7J     = 4.7Ω ±5%
@@ -196,20 +225,32 @@ b) 1.8KΩ ± 10%
 
 **32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/382007ad4d052d08d07f8dc1fb1982d28eb699a0/imagenes/ejercicios/e25.PNG)
+
 **34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?**
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/382007ad4d052d08d07f8dc1fb1982d28eb699a0/imagenes/ejercicios/e26.PNG)
 
 -El resistor que siempre va a poseer corriente sin importar la posición de los interruptores será  numero 5-
 
 **36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/456db909dd767bcf558f88f35a7374b3393386cc/imagenes/ejercicios/e27.PNG)
 
 **38. Explique cómo mediría la resistencia de R2 en la figura 2-72.**
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/456db909dd767bcf558f88f35a7374b3393386cc/imagenes/ejercicios/e28.PNG)
 
 **40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/456db909dd767bcf558f88f35a7374b3393386cc/imagenes/ejercicios/e29.PNG)
+
 **42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/456db909dd767bcf558f88f35a7374b3393386cc/imagenes/ejercicios/e30.PNG)
+
 **44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/456db909dd767bcf558f88f35a7374b3393386cc/imagenes/ejercicios/e31.PNG)
 
 **46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
 
