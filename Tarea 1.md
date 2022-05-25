@@ -262,9 +262,9 @@ https://www.youtube.com/watch?v=Zl-HfBExUTE
 
 **4. conclusiones**
 
-- Se ha considerado y adquirido infromacion fundamental con respecto a conceptos de la utilizacion de la notacion cientifica y notacion de ingenieria con respecto a medidad y unidades, ademas de ello se ah profundizado conocimientos te temas relevantes como el voltaje, corriente y resistencias dentro de un ambito tecnico referiendose a circuitos electricos.
+•	Se ha considerado y adquirido información fundamental con respecto a conceptos de la utilización de la notación científica y notación de ingeniería con respecto a medidas y unidades, además de ello se ha profundizado conocimientos te temas relevantes como el voltaje, corriente y resistencias dentro de un ámbito técnico refiriéndose a circuitos eléctricos.
 
-- El uso de conceptos que denotan las magnitudes han ayudado a profundizar conocimientos y ha ayudado a la resolusión de ejercicios propuestos, apartir de infromación y conocimiento adquirirdos, tanto en el capitulo uno y capitulo dos del libro de 5 principios de circuitos electricos de thomas L. Floyd.
+•	El uso de conceptos que denotan las magnitudes han ayudado a profundizar conocimientos y ha ayudado a la resolución de ejercicios propuestos, a partir de información y conocimiento adquiridos, tanto en el capítulo uno y capitulo dos del libro de 5 principios de circuitos eléctricos de Thomas L. Floyd.
 
 
 **5. Bibliografia.**
