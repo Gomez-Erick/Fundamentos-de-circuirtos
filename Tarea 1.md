@@ -256,6 +256,8 @@ b) 1.8KΩ ± 10%
 
 -Un multímetro de 4½ dígitos mostrará hasta 19.999 recuentos de resolución-
 
+**3. conclusiones**
+
 
 
 
