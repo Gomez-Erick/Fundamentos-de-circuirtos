@@ -258,6 +258,9 @@ b) 1.8KΩ ± 10%
 
 **3. conclusiones**
 
+- El uso de conceptos que denotan las magnitudes han ayudado a profundizar y a la resolucion de ejercicios propuestos, apartir de infromación y conocimiento adquirirdos, tanto en el capitulo uno y capitulo dos del libro de 5 principios de circuitos electricos de thomas L. Floyd.
+
+
 
 
 
