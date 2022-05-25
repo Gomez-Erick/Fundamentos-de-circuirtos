@@ -256,9 +256,23 @@ b) 1.8KΩ ± 10%
 
 -Un multímetro de 4½ dígitos mostrará hasta 19.999 recuentos de resolución-
 
-**3. conclusiones**
+**4. link del video.**
 
-- El uso de conceptos que denotan las magnitudes han ayudado a profundizar y a la resolucion de ejercicios propuestos, apartir de infromación y conocimiento adquirirdos, tanto en el capitulo uno y capitulo dos del libro de 5 principios de circuitos electricos de thomas L. Floyd.
+https://www.youtube.com/watch?v=Zl-HfBExUTE
+
+**4. conclusiones**
+
+- Se ha considerado y adquirido infromacion fundamental con respecto a conceptos de la utilizacion de la notacion cientifica y notacion de ingenieria con respecto a medidad y unidades, ademas de ello se ah profundizado conocimientos te temas relevantes como el voltaje, corriente y resistencias dentro de un ambito tecnico referiendose a circuitos electricos.
+
+- El uso de conceptos que denotan las magnitudes han ayudado a profundizar conocimientos y ha ayudado a la resolusión de ejercicios propuestos, apartir de infromación y conocimiento adquirirdos, tanto en el capitulo uno y capitulo dos del libro de 5 principios de circuitos electricos de thomas L. Floyd.
+
+
+**5. Bibliografia.**
+
+FLOYD, T. L. ( 2007). Principios de circuitos eléctricos.(Octava edición). Naucalpan de Juárez, Mexico: PEARSON EDUCACIÓN.
+
+
+
 
 
 
