@@ -1,17 +1,20 @@
 # Tarea-1
 **1. OBJETIVOS**
 
-Investigar de manera concisa los conceptos relacionados a la cantidad y unidades, voltaje, corriente y resistencias frente a lo que engloba los fundamentos de circuitos eléctricos, para ello se realizará redacciones que nos permitan percibir y aclarar y realizar ejercicios mediante la información presentada.
+Investigar de manera concisa los conceptos relacionados a la ley de Ohm y sus formulas derivadas asi como las leyes de watt, aplicándolas en el cálculo tanto de corriente eléctrica, resistencia y voltaje para poder obtener lo datos correctos en circuito eléctricos.
 
-Objetivos específicos 
+**Objetivos específicos**
 
-• Construir y sintetizar la información por medio de mapas conceptuales que permitan ayudar con un buen entendimiento
+• Construir y sintetizar la información por medio de mapas conceptuales que permitan ayudar con un buen entendimiento.
 
-• Establecer una investigación que refleje características frente al ámbito tecnológico.
+• Profundizar la formula de la ley de Ohm y las diferentes formulas derivadas de la misma para la resolución de problemas.
 
-• Resolver y explicar cada uno de los temas correspondidos por medio de la resolución de problemas.
+• Analizat el concepto de electricidad y como estas formulas nos ayudan a encontrar diferentes valores de diversos componentes.
 
 **2. MARCO TEÓRICO (RESUMEN)**
+
+
+
 
 
 **3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
@@ -139,3 +142,13 @@ image
 image
 
 **36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?**
+
+**4. conclusiones**
+
+• Se ha considerado y adquirido información fundamental con respecto a conceptos de la utilización de la notación científica y notación de ingeniería con respecto a medidas y unidades, además de ello se ha profundizado conocimientos te temas relevantes como el voltaje, corriente y resistencias dentro de un ámbito técnico refiriéndose a circuitos eléctricos.
+
+• El uso de conceptos que denotan las magnitudes han ayudado a profundizar conocimientos y ha ayudado a la resolución de ejercicios propuestos, a partir de información y conocimiento adquiridos, tanto en el capítulo uno y capitulo dos del libro de 5 principios de circuitos eléctricos de Thomas L. Floyd.
+
+**5. Bibliografia.**
+
+FLOYD, T. L. ( 2007). Principios de circuitos eléctricos.(Octava edición). Naucalpan de Juárez, Mexico: PEARSON EDUCACIÓN.
