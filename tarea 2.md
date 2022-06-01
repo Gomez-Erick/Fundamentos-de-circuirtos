@@ -1,4 +1,5 @@
-# Tarea-1
+# Tarea-2
+
 **1. OBJETIVOS**
 
 Investigar de manera concisa los conceptos relacionados a la ley de Ohm y sus formulas derivadas asi como las leyes de watt, aplicándolas en el cálculo tanto de corriente eléctrica, resistencia y voltaje para poder obtener lo datos correctos en circuito eléctricos.
