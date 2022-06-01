@@ -13,9 +13,45 @@ Investigar de manera concisa los conceptos relacionados a la ley de Ohm y sus fo
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
+**2.1. ley de ohm **
 
+**2.1.1. La relación de corriente, voltaje y resistencia** 
 
+![1]()
 
+![1]()
+
+![1]()
+
+**2.1.2. Introducción a la localización de fallas**
+
+![1]()
+
+**2.1.3. Conversiones de unidades métricas.**
+
+![1]()
+
+**2.2. ENERGIA Y POTENCIA**
+
+**2.2.1. Energía y potencia** 
+
+![1]()
+
+**2.2.2. Potencia en un circuito eléctrico** 
+
+![1]()
+ 
+**2.2.3. Potencia nominal en resistores**
+
+![1]()
+
+**2.2.4. Conversión de energía y caída de voltaje en una resistencia**
+
+![1]()
+
+**2.2.5. Fuentes de potencia**
+
+![1]()
 
 **3.	EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS**
 
