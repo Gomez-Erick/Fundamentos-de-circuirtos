@@ -220,6 +220,10 @@ Investigar de manera concisa los conceptos relacionados a la ley de Ohm y sus fo
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/f2d9342d0e280ff66b2f934863b484968152e400/imagenes%20tarea%202/ejercicios/t37.PNG)
 
+**3. link del video**
+
+https://youtu.be/7JZxyQorKxY
+
 **4. conclusiones**
 
 • En conclusión la ley de ohm, es aquel concepto que nos permite hallar los diversos factores que lo componen atraves de calculos matematicos frente a valores relacionados a la electricidad y entender que entre ellas estan relacionadas la corriente y el voltaje o corriente y resistencia.
