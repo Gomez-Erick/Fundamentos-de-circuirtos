@@ -10,7 +10,7 @@ Investigar de manera concisa los conceptos relacionados a la ley de Ohm y sus fo
 
 • Profundizar la formula de la ley de Ohm y las diferentes formulas derivadas de la misma para la resolución de problemas.
 
-• Analizat el concepto de electricidad y como estas formulas nos ayudan a encontrar diferentes valores de diversos componentes.
+• Analizar el concepto de electricidad y como estas formulas nos ayudan a encontrar diferentes valores de diversos componentes.
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
@@ -228,7 +228,7 @@ https://youtu.be/7JZxyQorKxY
 
 • En conclusión la ley de ohm, es aquel concepto que nos permite hallar los diversos factores que lo componen atraves de calculos matematicos frente a valores relacionados a la electricidad y entender que entre ellas estan relacionadas la corriente y el voltaje o corriente y resistencia.
 
-• en la potencaa podemos decir que la intensidad de la corriente eléctrica que circula por un conductor es directamente proporcional a la diferencia de potencial aplicada e inversamente proporcional a la resistencia del mismo
+• En la potencia podemos decir que la intensidad de la corriente eléctrica que circula por un conductor es directamente proporcional a la diferencia de potencial aplicada e inversamente proporcional a la resistencia del mismo
 
 • El uso de conceptos de la ley de ohm y watts han ayudado a profundizar conocimientos y ha ayudado a la resolución de ejercicios propuestos, a partir de información y conocimiento adquiridos, tanto en el capítulo dos y capitulo tres del libro de 5 principios de circuitos eléctricos de Thomas L. Floyd.
 
