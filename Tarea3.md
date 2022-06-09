@@ -14,4 +14,5 @@ Investigar de manera concisa los conceptos relacionados a la cantidad y unidades
 **2. Marco teorico**
 
 **3. RESOLUCCIÓN DE PROBLEMAS**
-**CAPÍTULO 5**
+**CAPÍTULO 5 y 6**
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/ddf15e6a1d7e5e5c9d4a830753335ee2b8d21474/imagenes/1er%20mapa.PNG)
