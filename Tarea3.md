@@ -15,6 +15,7 @@ Investigar de manera concisa los conceptos relacionados a la cantidad y unidades
 
 **3. RESOLUCCIÓN DE PROBLEMAS**
 **CAPÍTULO 5 y 6**
+
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/47bf5c2939c9fa9284270ae71c19f6e69382fbda/im%C3%A1genes%20tarea3/1r.PNG)
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/47bf5c2939c9fa9284270ae71c19f6e69382fbda/im%C3%A1genes%20tarea3/2r.PNG)
