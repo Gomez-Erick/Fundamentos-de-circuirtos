@@ -13,23 +13,32 @@ Investigar de manera concisa los conceptos relacionados a la cantidad y unidades
 • Resolver y explicar cada uno de los temas correspondidos por medio de la resolución de problemas.
 **2. Marco teorico**
 **Capitulo 5**
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u1.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u2.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u3.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u4.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u5.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u6.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u7.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u8.PNG)
 
 **Capitulo 6**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u9.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u10.PNG)
 
-
-
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u11.PNG)
 
 **3. RESOLUCCIÓN DE PROBLEMAS**
+
 **CAPÍTULO 5 y 6**
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/47bf5c2939c9fa9284270ae71c19f6e69382fbda/im%C3%A1genes%20tarea3/1r.PNG)
