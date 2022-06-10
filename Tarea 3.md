@@ -12,6 +12,22 @@ Investigar de manera concisa los conceptos relacionados a la cantidad y unidades
 
 • Resolver y explicar cada uno de los temas correspondidos por medio de la resolución de problemas.
 **2. Marco teorico**
+**Capitulo 5**
+![1]()
+
+
+
+
+
+
+
+
+**Capitulo 6**
+
+
+
+
+
 
 **3. RESOLUCCIÓN DE PROBLEMAS**
 **CAPÍTULO 5 y 6**
