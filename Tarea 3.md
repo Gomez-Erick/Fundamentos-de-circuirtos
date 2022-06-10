@@ -11,8 +11,11 @@ Investigar de manera concisa los conceptos relacionados a la cantidad y unidades
 • Establecer una investigación que refleje características frente al ámbito tecnológico.
 
 • Resolver y explicar cada uno de los temas correspondidos por medio de la resolución de problemas.
+
 **2. Marco teorico**
+
 **Capitulo 5**
+
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u1.PNG)
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d133e0f0a34a9ee2db0525a83ca9e4ecc33b20ea/im%C3%A1genes%20tarea3/mapas/u2.PNG)
