@@ -16,6 +16,30 @@ Analizar los conceptos relacionados a la  corriente, voltaje, resistencia, poten
 
 **Capitulo 7**
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/1s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/2s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/3s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/4s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/5s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/6s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/7s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/8s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/9s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/10s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/11s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/12s.PNG)
+
 
 **3. link del video**
 
