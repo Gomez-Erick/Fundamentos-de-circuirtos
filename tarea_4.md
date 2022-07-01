@@ -2,15 +2,15 @@
 
 **1. OBJETIVOS**
 
-Analizar los conceptos relacionados a la  corriente, voltaje, resistencia, potencia y energía mediante las leyes de kirchhoff tanto en circuitos en serie y paralelos, frente a lo que engloba los fundamentos de circuitos eléctricos, para ello se realizará redacciones que nos permitan percibir y aclarar y realizar ejercicios mediante la información analizada.
+Estudiar conceptos relacionados al calculo de valores relacionados  corriente, voltaje, resistencia, potencia y energía mediante las el analisis de los circuitos que se pueden presentar con la aplicacion de teoremas como Thevenin, superposicion, Norton  conversiones, para ello se realizará redacciones que nos permitan percibir y aclarar conocimientos y realizar ejercicios mediante la información analizada.
 
 **Objetivos específicos**
 
-• Construir y sintetizar la información por medio de mapas conceptuales que permitan ayudar con un buen entendimiento respecto a conceptos sobr voltge potencia en circuitos en serie y paralelos.
+• Construir y sintetizar la información por medio de mapas conceptuales que permitan ayudar con la redaccion acorde teremas utilizados y fundamentos de circuitos.
 
-• Reconocer las leyes de Kirchhoff y como se presentan en un circuito en serie y en un circuito paralelo.
+• Reconocer los teoremas de Thevenin, superposicion, Norton, conversiones y como se presentan en un circuito en serie y en un circuito paralelo en ambitos electricos.
 
-• Resolver y explicar cada uno de los temas correspondidos por medio de la resolución de problemas aplicando formulas fundamnetales.
+• Resolver y explicar cada uno de los ejercios acorde a los temas por medio indentificacioón de problemas aplicando formulas y teoremas fundamentales.
 
 **2. Marco teorico**
 
@@ -144,13 +144,12 @@ Analizar los conceptos relacionados a la  corriente, voltaje, resistencia, poten
 
 **4. conclusiones**
 
-• En conclusión en este capitulo aprendimos las grandes diferencias que hay entre los circuitos en serie y los circuitos en paralelo donde la corriente en los circuitos en serie se mantiene y en los circuitos en paralelo se divide.
+• En conclusion al tener circuitos eléctricos  estos son controlados por fuentes de voltaje o de corriente, es importante entender cómo funcionan estos elementos y como es su transferencia tanto de voltage y corriente.
 
-• El proceso de desarrollo de los ejercicios vimos la importancia de identificar un circuito paralelo y un circuito en serie ya que existen diversas diferencias entre estos dos tipos de circuitos.
+• El teorema de superposición nos ayudará a abordar circuitos que tienen múltiples fuentes. 
 
-• En los circuitos en paralelo la Ley de las corrientes permite encontrar la corriente total que pasa por el circuito ya su vez ayuda al analizar las corrientes que pasan por el nodo tanto las que entran como salen.
+• Los teoremas de Thevenin y de Norton ponen a nuestro alcance métodos apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis corriente, voltaje, resistencia, potencia y energía ademas de ello la transferencia de potencia máxima se utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
 
-• Un metodo que pudimos observar fue que al resolver varios circuitos existen múltiples formas de encontrar los componentes de un circuito y tenemos que aprender a identificar que ecuación nos resulta más fácil para poder resolver.
 
 **5. Bibliografia.**
 
