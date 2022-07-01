@@ -40,7 +40,7 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/12s.PNG)
   
-**ejercios capitulo 7 y 8 **  
+** Resolucion de ejercicios capitulo 7 y 8 **  
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/bc540d245a0a052852ff0290051380198f28182c/imagenestarea%204/ejercicios%204/1t.PNG)
 
@@ -140,7 +140,7 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 **3. link del video**
 
-
+https://youtu.be/a2AQVaQR9Sw
 
 **4. conclusiones**
 
