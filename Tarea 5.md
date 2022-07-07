@@ -42,7 +42,3 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/13.PNG)
 
-
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
-
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
