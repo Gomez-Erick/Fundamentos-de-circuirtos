@@ -40,5 +40,23 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/12.PNG)
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/13.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/13.PNG)7
+
+
+**3. link del video**
+
+https://youtu.be/a2AQVaQR9Sw
+
+**4. conclusiones**
+
+• En conclusion al tener circuitos eléctricos  estos son controlados por fuentes de voltaje o de corriente, es importante entender cómo funcionan estos elementos y como es su transferencia tanto de voltage y corriente.
+
+• El teorema de superposición nos ayudará a abordar circuitos que tienen múltiples fuentes. 
+
+• Los teoremas de Thevenin y de Norton ponen a nuestro alcance métodos apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis corriente, voltaje, resistencia, potencia y energía ademas de ello la transferencia de potencia máxima se utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
+
+
+**5. Bibliografia.**
+
+FLOYD, T. L. ( 2007). Principios de circuitos eléctricos.(Octava edición). Naucalpan de Juárez, Mexico: PEARSON EDUCACIÓN.
 
