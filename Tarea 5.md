@@ -16,4 +16,38 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 **Capitulo 7**
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/eb04285c5f557d69b99bb71eca0118a45da45d5e/imagenestarea%204/1s.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/2.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/3.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/4.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/5.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/6.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/7.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/8.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/9.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/10.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/11.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/12.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
