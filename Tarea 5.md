@@ -44,9 +44,31 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 **resolucion de ejercicios**
 
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/2y.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/3y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/4y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/5y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/6y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/7y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/8y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/9y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/10y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
 **3. link del video**
 
 https://youtu.be/a2AQVaQR9Sw
