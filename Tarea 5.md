@@ -42,6 +42,10 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/13.PNG)7
 
+**resolucion de ejercicios**
+
+![1]()
+
 
 **3. link del video**
 
