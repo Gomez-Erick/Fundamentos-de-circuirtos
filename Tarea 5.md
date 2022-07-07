@@ -64,11 +64,18 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/10y.PNG)
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/11y.PNG)
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/12y.PNG)
 
-![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/13y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/14y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/15y.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/16y.PNG)
+
 **3. link del video**
 
 https://youtu.be/a2AQVaQR9Sw
