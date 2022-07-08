@@ -85,10 +85,10 @@ Estudiar conceptos relacionados al los Teoremas y metodos fundamentales acorte a
 
 **4. conclusiones**
 
-•Se pudo obtener nfromacion sobre métodos de análisis de circuitos que particularmente son útiles en el análisis de circuitos de
+•Se pudo obtener infromación sobre métodos de análisis de circuitos que particularmente son útiles en el análisis de circuitos de
 múltiples lazos que tienen dos o más fuentes de voltaje o de corriente.
 
-•Se establecion un nuevo conocimiento acerca del electromagnetismo tanto sus utilizades elementos y caracteristicas que con lleva, ademas de ello se pudo establecer nuevos conceptos y dominios del tema.
+•Se establecio un nuevo conocimiento acerca del electromagnetismo tanto sus utilizades elementos y caracteristicas que con lleva, ademas de ello se pudo establecer nuevos conceptos y dominios del tema.
 
 **5. Bibliografia.**
 
