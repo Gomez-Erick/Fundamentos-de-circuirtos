@@ -2,15 +2,17 @@
 
 **1. OBJETIVOS**
 
-Estudiar conceptos relacionados al calculo de valores relacionados  corriente, voltaje, resistencia, potencia y energía mediante las el analisis de los circuitos que se pueden presentar con la aplicacion de teoremas como Thevenin, superposicion, Norton  conversiones, para ello se realizará redacciones que nos permitan percibir y aclarar conocimientos y realizar ejercicios mediante la información analizada.
+Estudiar conceptos relacionados al los Teoremas y metodos fundamentales acorte a la resolucion de problemas en circuitos junto a sus derivadas a través del análisis y sus definiciones, de temas nuevos, para ello se realizará redacciones que nos permitan percibir y aclarar conocimientos y realizar ejercicios mediante la información analizada.
 
 **Objetivos específicos**
 
-• Construir y sintetizar la información por medio de mapas conceptuales que permitan ayudar con la redaccion acorde teremas utilizados y fundamentos de circuitos.
+• Construir y sintetizar la información por medio de mapas conceptuales cuadros cinopticos que nos permitan enfatizar informacion relevante acerca de nuevos metodos para la resolucion de problemas con circuitos, y el electromagnetismo .
 
-• Reconocer los teoremas de Thevenin, superposicion, Norton, conversiones y como se presentan en un circuito en serie y en un circuito paralelo en ambitos electricos.
+• Comprender cuales es el metodo mas eficaz para resolver los ejercicios sobre capacitores y circuitos en general.
 
-• Resolver y explicar cada uno de los ejercios acorde a los temas por medio indentificacioón de problemas aplicando formulas y teoremas fundamentales.
+• Analizar el funcionamiento de los capacitores y su capacitancia de almacenar energía mediante los métodos de resolución previstos en los temas
+
+•Ralizar el proceso de resolucion a ejercicios mediante la informacion tratada.
 
 **2. Marco teorico**
 
@@ -78,16 +80,15 @@ Estudiar conceptos relacionados al calculo de valores relacionados  corriente, v
 
 **3. link del video**
 
-https://youtu.be/a2AQVaQR9Sw
+
+
 
 **4. conclusiones**
 
-• En conclusion al tener circuitos eléctricos  estos son controlados por fuentes de voltaje o de corriente, es importante entender cómo funcionan estos elementos y como es su transferencia tanto de voltage y corriente.
+•Se pudo obtener nfromacion sobre métodos de análisis de circuitos que particularmente son útiles en el análisis de circuitos de
+múltiples lazos que tienen dos o más fuentes de voltaje o de corriente.
 
-• El teorema de superposición nos ayudará a abordar circuitos que tienen múltiples fuentes. 
-
-• Los teoremas de Thevenin y de Norton ponen a nuestro alcance métodos apropiados para reducir un circuito a una forma equivalente simple con el propósito de facilitar su análisis corriente, voltaje, resistencia, potencia y energía ademas de ello la transferencia de potencia máxima se utiliza en aplicaciones donde es importante que un circuito dado proporcione potencia máxima a una carga.
-
+•Se establecion un nuevo conocimiento acerca del electromagnetismo tanto sus utilizades elementos y caracteristicas que con lleva, ademas de ello se pudo establecer nuevos conceptos y dominios del tema.
 
 **5. Bibliografia.**
 
