@@ -16,8 +16,6 @@ Estudiar conceptos relacionados al los Teoremas y metodos fundamentales acorte a
 
 **2. Marco teorico**
 
-**Capitulo 7**
-
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/1.PNG)
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/2.PNG)
@@ -44,7 +42,7 @@ Estudiar conceptos relacionados al los Teoremas y metodos fundamentales acorte a
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/15960bf523e50b0d7aede236f313a7a648163f2d/ejercicios%20tarea%205/13.PNG)7
 
-**resolucion de ejercicios**
+**resolución de ejercicios cap 9 y 10 **
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/2ede5f8b2eb8fcaa0da4c97df578d5d60c32ff8f/ejercicios%20tarea%205/ejercicios5/1y.PNG)
 
@@ -80,7 +78,7 @@ Estudiar conceptos relacionados al los Teoremas y metodos fundamentales acorte a
 
 **3. link del video**
 
-
+https://youtu.be/6okNu64lw0I 
 
 
 **4. conclusiones**
