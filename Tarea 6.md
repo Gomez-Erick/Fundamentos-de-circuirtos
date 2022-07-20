@@ -2,7 +2,7 @@
 
 **1. OBJETIVOS**
 
-Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por medio de implementacion de mapas conceptuales, para así lograr resolver y mantener caracteristicas de circuitos con corriente y voltaje alternos, así como iformacion relevante acerca de capacitores, finalmente para adquirir conocimientos y realizar ejercicios mediante la información analizada.
+Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por medio de implementacion de mapas conceptuales, para así lograr resolver y mantener caracteristicas de circuitos fundaentales, así como información relevante acerca de capacitores, finalmente para adquirir conocimientos y realizar ejercicios mediante la información analizada.
 
 **Objetivos específicos**
 
@@ -117,7 +117,6 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/d81850b7359132035b6538146f1e3adb9199dd55/imagenes%206/ejercicios%206/35v.PNG)
 
 **4. link del video**
-
 
 
 **5. conclusiones**
