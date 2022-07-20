@@ -121,9 +121,13 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 
 **5. conclusiones**
 
-• 
-• 
-•
+• Podemos decir que un voltaje alterno es aque que cambia de polaridad con cierta rapidez, por otra parte al hablar de ondas
+sinusoidales o ondas senos son aquellas que se repiten en intervlos fijos la implementacion de estos conceptos han dado enfasis en el analisis 
+circuitos d corriente alterna.
+
+•para poder visualizar lasgraficas de las ondas en un circuito, la herramienta o el dipositivo que se utiliza es el osciloscopio ddo que atraaves de su pantalla se puede visalizar la traza de la señal electrica medida.
+
+• El capcitor es un elemento eléctrico que su principal funcion es guardar o almacenar carga eléctrica y sus aplicacion en el ambito tecnologico son demasiados abundantes, debido a su estructura interna, su unidad es la capacitancia.
 
 **6. Bibliografia.**
 
