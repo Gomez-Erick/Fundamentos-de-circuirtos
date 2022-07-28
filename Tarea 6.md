@@ -2,7 +2,7 @@
 
 **1. OBJETIVOS**
 
-Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por medio de implementacion de mapas conceptuales, para así lograr resolver y mantener caracteristicas de circuitos fundaentales, así como información relevante acerca de capacitores, finalmente para adquirir conocimientos y realizar ejercicios mediante la información analizada.
+Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por medio de implementación de mapas conceptuales, para así lograr resolver y mantener características de circuitos fundamentales, así como información relevante acerca de capacitores, finalmente para adquirir conocimientos y realizar ejercicios mediante la información analizada.
 
 **Objetivos específicos**
 
@@ -122,13 +122,13 @@ https://youtu.be/W05VPx-vZdE
 
 **5. conclusiones**
 
-• Podemos decir que un voltaje alterno es aque que cambia de polaridad con cierta rapidez, por otra parte al hablar de ondas
-sinusoidales o ondas senos son aquellas que se repiten en intervlos fijos la implementacion de estos conceptos han dado enfasis en el analisis 
-circuitos d corriente alterna.
+• Podemos decir que un voltaje alterno es aque que cambia de polaridad con cierta rapidéz, por otra parte al hablar de ondas
+sinusoidales o ondas senos son aquellas que se repiten en intervlos fíjos la implementación de estos conceptos han dado enfasis en el análisis 
+circuitos de corriente alterna.
 
-•para poder visualizar lasgraficas de las ondas en un circuito, la herramienta o el dipositivo que se utiliza es el osciloscopio ddo que atraaves de su pantalla se puede visalizar la traza de la señal electrica medida.
+•para poder visualizar las gráficas de las ondas en un circuito, la herramienta o el dipositivo que se utiliza es el osciloscopio ddo que atraves de su pantalla se puede visalizar la traza de la señal eléctrica medida.
 
-• El capcitor es un elemento eléctrico que su principal funcion es guardar o almacenar carga eléctrica y sus aplicacion en el ambito tecnologico son demasiados abundantes, debido a su estructura interna, su unidad es la capacitancia.
+• El capcitor es un elemento eléctrico que su principal función es guardar o almacenar carga eléctrica y sus aplicación en el ambito tecnológico son demasiados abundantes, debido a su estructura interna, su unidad es la capacitancia.
 
 **6. Bibliografia.**
 
