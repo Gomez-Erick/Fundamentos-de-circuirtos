@@ -8,9 +8,9 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 
 • Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los de circuitos.
 
-• Reconocer caracteristicas principales y fundamemtales de corriente ,voltaje alterno y capacitores en ambitos electricos.
+• Reconocer caracteristicas principales y fundamemtales de corriente ,voltaje alterno y capacitores en ambitos eléctricos.
 
-• Resolver y explicar cada uno de los ejercios acorde a los temas por medio indentificación de problemas aplicando formulas y información fundamentales.
+• Resolver y explicar cada uno de los ejercicios acorde a los temas por medio de indentificación del problemas aplicando formulas y información fundamentales.
 
 **2. Marco teorico**
 
