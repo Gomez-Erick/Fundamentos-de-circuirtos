@@ -1,26 +1,28 @@
+# Informe #6
+
+**1. OBJETIVOS**
+
+Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por medio de implementación de mapas conceptuales, para así lograr resolver y mantener características de circuitos fundamentales, así como información relevante acerca de capacitores, finalmente para adquirir conocimientos y realizar ejercicios mediante la información analizada.
+
+**Objetivos específicos**
+
+• Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los de circuitos.
+
+• Reconocer caracteristicas principales y fundamemtales de corriente ,voltaje alterno y capacitores en ambitos eléctricos.
+
+• Resolver y explicar cada uno de los ejercicios acorde a los temas por medio de indentificación del problemas aplicando formulas y información fundamentales.
+
+**2. Marco teorico**
+
+**Capitulo 13 y 14**
 
 
+**Resolución de ejercicios**
+
+**link del video**
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Conclusiones**
 
 • Podemos decir que un voltaje alterno es aque que cambia de polaridad con cierta rapidéz, por otra parte al hablar de ondas
 sinusoidales o ondas senos son aquellas que se repiten en intervlos fíjos la implementación de estos conceptos han dado enfasis en el análisis 
