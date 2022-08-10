@@ -18,6 +18,20 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/1io.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/2io.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/3io.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/4io.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/5io.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/6io.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/7io.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/8io.PNG)
+
 **Resolución de ejercicios**
 
 **link del video**
