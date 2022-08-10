@@ -16,7 +16,8 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 
 **Capitulo 13 y 14**
 
-https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/1io.PNG
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/1io.PNG)
+
 **Resolución de ejercicios**
 
 **link del video**
