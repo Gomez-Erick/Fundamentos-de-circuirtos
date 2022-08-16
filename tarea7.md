@@ -33,6 +33,47 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/8io.PNG)
 
 **Resolución de ejercicios**
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/1z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/2z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/3z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/4z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/5z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/6z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/7z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/8z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/9z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/10z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/11z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/12z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/13z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/14z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/15z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/16z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/17z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/18z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/19z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/20z.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/21z.PNG)
 
 **link del video**
 
