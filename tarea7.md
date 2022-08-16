@@ -33,6 +33,7 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/791f8f990cd112dd610a7f4586888c8164443376/ejercicios%207/8io.PNG)
 
 **Resolución de ejercicios**
+
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/1z.PNG)
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/35de1c9eea6dea392878bb8ca5727bb18a15b8db/ejercicios%207/ejercicios/2z.PNG)
