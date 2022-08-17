@@ -2,13 +2,13 @@
 
 **1. OBJETIVOS**
 
-Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por medio de implementación de mapas conceptuales, para así lograr resolver y mantener características de circuitos fundamentales, así como información relevante acerca de capacitores, finalmente para adquirir conocimientos y realizar ejercicios mediante la información analizada.
+Estudiar  y comprender la teoria relacionada a los inductores y transformadores en circuitos electricos elementales,  por medio de la implementación de mapas conceptuales, esquemas, para así lograr intruducir informacion para el estudiantes, y finalmente adquirir destresas para la resolucion de ejercicios mediante la información analizada.
 
 **Objetivos específicos**
 
-• Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los de circuitos.
+• Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los temas principales caracteristicas, conceptos y ejemplos.
 
-• Reconocer caracteristicas principales y fundamemtales de corriente ,voltaje alterno y capacitores en ambitos eléctricos.
+• Reconocer formulas ideales e importantes para la realización de ejercicios propuestos.
 
 • Resolver y explicar cada uno de los ejercicios acorde a los temas por medio de indentificación del problemas aplicando formulas y información fundamentales.
 
@@ -82,13 +82,11 @@ https://youtu.be/zKJCztdpHF0
 
 **Conclusiones**
 
-• Podemos decir que un voltaje alterno es aque que cambia de polaridad con cierta rapidéz, por otra parte al hablar de ondas
-sinusoidales o ondas senos son aquellas que se repiten en intervlos fíjos la implementación de estos conceptos han dado enfasis en el análisis 
-circuitos de corriente alterna.
+• Un inductor o bobina es   un componente pasivo   de un circuito   eléctrico que,   debido   al   fenómeno   de la autoinducción, almacenaenergía  en forma decampomagnético.
 
-•para poder visualizar las gráficas de las ondas en un circuito, la herramienta o el dipositivo que se utiliza es el osciloscopio ddo que atraves de su pantalla se puede visalizar la traza de la señal eléctrica medida.
+• Los inductores tienen una gran parte fundamental en electrónica, por el hecho de que conforman  una gran ayuda para la implementacion de cosas diariamente utilizadas por el hombre,desde motores giratorios hasta carga inalámbrica de tu teléfono. 
 
-• El capcitor es un elemento eléctrico que su principal función es guardar o almacenar carga eléctrica y sus aplicación en el ambito tecnológico son demasiados abundantes, debido a su estructura interna, su unidad es la capacitancia.
+• La operacion del transformador, principalmente se basa en la utilización de la inductancia mutua.
 
 **6. Bibliografia.**
 
