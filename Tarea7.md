@@ -78,6 +78,7 @@ Estudiar conceptos relacionados corriente ,voltaje alterno y capacitores, por me
 
 **link del video**
 
+https://youtu.be/zKJCztdpHF0 
 
 **Conclusiones**
 
