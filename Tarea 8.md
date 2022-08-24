@@ -2,13 +2,15 @@
 
 **1. OBJETIVOS**
 
-Estudiar  y comprender la teoria relacionada a los inductores y transformadores en circuitos electricos elementales,  por medio de la implementación de mapas conceptuales, esquemas, para así lograr intruducir informacion para el estudiantes, y finalmente adquirir destresas para la resolucion de ejercicios mediante la información analizada.
+Estudiar  y comprender la teoria relacionada a los circuitos Rc y RL en serie y paralelo,  por medio de la implementación de mapas conceptuales, investigación, esquemas, para así lograr intruducir información correspondiente hacia el estudiantes con la finalidad de adquirir destresas para la resolucion de ejercicios mediante la información analizada y visión clara del funcionamiento de circúitos electricos. 
 
 **Objetivos específicos**
 
 • Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los temas principales caracteristicas, conceptos y ejemplos.
 
 • Reconocer formulas ideales e importantes para la realización de ejercicios propuestos.
+
+• Intruducir la informacion en aspectos de la vida cotidiana para la obtencion del conocimiento.
 
 • Resolver y explicar cada uno de los ejercicios acorde a los temas por medio de indentificación del problemas aplicando formulas y información fundamentales.
 
@@ -48,12 +50,16 @@ Estudiar  y comprender la teoria relacionada a los inductores y transformadores 
 
 **Conclusiones**
 
-• Un inductor o bobina es   un componente pasivo   de un circuito   eléctrico que,   debido   al   fenómeno   de la autoinducción, almacenaenergía  en forma decampomagnético.
+• Los numeros complejos son una herramienta importante para el análisis de circuitos de ca ya que expresar matemáticamente una
+cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
 
-• Los inductores tienen una gran parte fundamental en electrónica, por el hecho de que conforman  una gran ayuda para la implementacion de cosas diariamente utilizadas por el hombre,desde motores giratorios hasta carga inalámbrica de tu teléfono. 
+• Un circuito RC basicamiente consiste en un circuto compuesto de resistores y condensadores alimentados por una fuente electrica, que se puede usar como filtro para
+diversos aspectos.
 
-• La operacion del transformador, principalmente se basa en la utilización de la inductancia mutua.
+•Un circuito RL son aquellos que en su estructura contienen bobinas(inductores)que tienen auto inductancia,evitando cambios en la corriente.
 
 **6. Bibliografia.**
 
 FLOYD, T. L. ( 2007). Principios de circuitos eléctricos.(Octava edición). Naucalpan de Juárez, Mexico: PEARSON EDUCACIÓN
+
+https://es.calameo.com/books/000857829ac8bee2fbef8 
