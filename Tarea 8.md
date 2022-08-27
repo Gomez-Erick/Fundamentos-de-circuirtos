@@ -16,7 +16,7 @@ Estudiar  y comprender la teoria relacionada a los circuitos Rc y RL en serie y 
 
 **2. Marco teorico**
 
-**Capitulo 13 y 14**
+**Capitulo 15 y 16**
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c2b0eb939b945ea044c6e3a853bcdb10d7c5e9ad/ejercicios8/1u.PNG)
 
