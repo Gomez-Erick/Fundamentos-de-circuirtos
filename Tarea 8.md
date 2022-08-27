@@ -140,7 +140,7 @@ Estudiar  y comprender la teoria relacionada a los circuitos Rc y RL en serie y 
 
 **link del video**
 
-
+https://youtu.be/XnQYwwK59I0
 
 **Conclusiones**
 
