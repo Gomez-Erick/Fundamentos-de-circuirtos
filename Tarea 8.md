@@ -42,7 +42,7 @@ Estudiar  y comprender la teoria relacionada a los circuitos Rc y RL en serie y 
 
 **Resolución de ejercicios**
 
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/88052e0d5eefe87a47408c3e75715bb2e77a8deb/ejercicios8/ejercicios8/1s.PNG)
 
 **link del video**
 
