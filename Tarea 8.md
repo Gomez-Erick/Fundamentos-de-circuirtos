@@ -130,6 +130,14 @@ Estudiar  y comprender la teoria relacionada a los circuitos Rc y RL en serie y 
 
 ![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/88052e0d5eefe87a47408c3e75715bb2e77a8deb/ejercicios8/ejercicios8/44s.PNG)
 
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/88052e0d5eefe87a47408c3e75715bb2e77a8deb/ejercicios8/ejercicios8/45s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/88052e0d5eefe87a47408c3e75715bb2e77a8deb/ejercicios8/ejercicios8/46s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/88052e0d5eefe87a47408c3e75715bb2e77a8deb/ejercicios8/ejercicios8/47s.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/88052e0d5eefe87a47408c3e75715bb2e77a8deb/ejercicios8/ejercicios8/48s.PNG)
+
 **link del video**
 
 
