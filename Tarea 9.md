@@ -18,7 +18,24 @@ Estudiar  y comprender la teoria relacionada a los circuitos Rc y RL en serie y 
 
 **Capitulo 17 y 18**
 
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/1X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/2X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/3X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/4X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/5X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/6X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/7X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/8X.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/c80e10a8923990f16a86aae58be8806a6c514524/ejercicios9/9X.PNG)
+
 
 **resolucion de ejercicios cap 17 y 18**
 
