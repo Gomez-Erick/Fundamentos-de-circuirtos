@@ -2,15 +2,15 @@
 
 **1. OBJETIVOS**
 
-Estudiar  y comprender la teoria relacionada a los circuitos Rc y RL en serie y paralelo,  por medio de la implementación de mapas conceptuales, investigación, esquemas, para así lograr intruducir información correspondiente hacia el estudiantes con la finalidad de adquirir destresas para la resolucion de ejercicios mediante la información analizada y visión clara del funcionamiento de circúitos electricos. 
+Comprender la teoria relacionada a los circuitos RCL en serie, paralelo y filtros pasivos  por medio de la implementación de mapas conceptuales, investigación, esquemas, para así lograr intruducir información correspondiente y confiable, para los estudiantes, con la finalidad de adquirir destresas en aplicaciones referente a la carrera y para la resolucion de ejercicios, mediante la información analizada y visión clara del funcionamiento de circúitos electricos. 
 
 **Objetivos específicos**
 
-• Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los temas principales caracteristicas, conceptos y ejemplos.
+• Construir y sintetizar la información por medio de mapas conceptuales y esquemas de los temas principales caracteristicas, conceptos y ejemplos de circuts  RLC y filtros pasivos .
 
 • Reconocer formulas ideales e importantes para la realización de ejercicios propuestos.
 
-• Intruducir la informacion en aspectos de la vida cotidiana para la obtencion del conocimiento.
+• Intruducir la información en aspectos de la vida cotidiana para la obtencion del conocimiento.
 
 • Resolver y explicar cada uno de los ejercicios acorde a los temas por medio de indentificación del problemas aplicando formulas y información fundamentales.
 
