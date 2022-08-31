@@ -47,10 +47,9 @@ https://youtu.be/XnQYwwK59I0
 
 **Conclusiones**
 
-• 
+• En un circuito RLC , los elementos más fundamentales de un resistor , inductor y condensador están conectados a través de una fuente de voltaje . Todos estos elementos son de naturaleza lineal y pasiva.
 
-• Un circuito RC basicamiente consiste en un circuto compuesto de resistores y condensadores alimentados por una fuente electrica, que se puede usar como filtro para
-diversos aspectos.
+• En el circuito RLC paralelo, la resistencia, el inductor y el condensador están conectados en paralelo a través de una fuente de voltaje. El circuito RLC paralelo es exactamente opuesto al circuito RLC en serie. El voltaje aplicado sigue siendo el mismo en todos los componentes y la corriente de suministro se divide.
 
 •Filtros Pasivos son aquellos tipos de filtros formados por combinaciones serie o paralelo de elementos R, L o C. Para cada uno de estos filtros existen dos zonas principales las cuales son llamadas Banda de paso y la banda de atenuación.
 
@@ -58,4 +57,4 @@ diversos aspectos.
 
 FLOYD, T. L. ( 2007). Principios de circuitos eléctricos.(Octava edición). Naucalpan de Juárez, Mexico: PEARSON EDUCACIÓN
 
-https://es.calameo.com/books/000857829ac8bee2fbef8 
+https://telcom.jaol.net/circuitorlc/#:~:text=En%20el%20circuito%20RLC%20paralelo%2C%20la%20resistencia%2C%20el,componentes%20y%20la%20corriente%20de%20suministro%20se%20divide. 
