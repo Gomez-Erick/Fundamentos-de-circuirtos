@@ -47,13 +47,12 @@ https://youtu.be/XnQYwwK59I0
 
 **Conclusiones**
 
-• Los numeros complejos son una herramienta importante para el análisis de circuitos de ca ya que expresar matemáticamente una
-cantidad fasorial y permite sumar, restar, multiplicar y dividir cantidades fasoriales.
+• 
 
 • Un circuito RC basicamiente consiste en un circuto compuesto de resistores y condensadores alimentados por una fuente electrica, que se puede usar como filtro para
 diversos aspectos.
 
-•Un circuito RL son aquellos que en su estructura contienen bobinas(inductores)que tienen auto inductancia,evitando cambios en la corriente.
+•Filtros Pasivos son aquellos tipos de filtros formados por combinaciones serie o paralelo de elementos R, L o C. Para cada uno de estos filtros existen dos zonas principales las cuales son llamadas Banda de paso y la banda de atenuación.
 
 **6. Bibliografia.**
 
