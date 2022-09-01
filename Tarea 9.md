@@ -39,7 +39,53 @@ Comprender la teoria relacionada a los circuitos RCL en serie, paralelo y filtro
 
 **resolucion de ejercicios cap 17 y 18**
 
-![1]()
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/1h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/2h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/3h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/4h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/5h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/6h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/7h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/8h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/9h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/10h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/11h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/12h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/13h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/14h.PNG)
+1
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/15h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/16h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/17h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/18h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/19h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/20h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/21h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/22h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/23h.PNG)
+
+![1](https://github.com/Gomez-Erick/Fundamentos-de-circuirtos/blob/7d48839adf825f804ef1b5facb36f1c7c4c878c7/ejercicios9/ejercicios%209/24h.PNG)
 
 **link del video**
 
