@@ -89,7 +89,7 @@ Comprender la teoria relacionada a los circuitos RCL en serie, paralelo y filtro
 
 **link del video**
 
-https://youtu.be/XnQYwwK59I0
+https://youtu.be/WdiDWIhQeBA
 
 **Conclusiones**
 
